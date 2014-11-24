@@ -102,7 +102,7 @@ header h1 {
  }
   main h3 {
 	 margin-top: 0.2em;
-	 margin-bottom: 0;
+	 margin-bottom: 0px;
  }
  footer {
 	 background: rgb(157,189,198);
